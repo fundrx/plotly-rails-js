@@ -14,7 +14,7 @@ Gem::Specification.new do |s|
   s.description = "This gem provides plotly and the plotly-ujs driver for your Rails 4+ application."
   s.license     = "MIT"
 
-  s.required_ruby_version = ">= 2.3.1"
+  s.required_ruby_version = ">= 2.3.0"
 
   s.files        = `git ls-files`.split("\n")
   s.require_path = 'lib'
